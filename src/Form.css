@@ -1,4 +1,8 @@
 .demoForm {
 	width: 500px;
 	margin: auto;
+	text-align: left !important;
+}
+.has-error-input {
+	color: red;
 }
